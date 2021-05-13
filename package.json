@@ -1,0 +1,14 @@
+{
+  "name": "smart-hardware-shop",
+  "version": "1.0.0",
+  "description": "Smart Hardware Shop json server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vijayendra Mudigal",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
